@@ -15,7 +15,7 @@ interface FeaturedItem {
 const featuredItems: FeaturedItem[] = [
   {
     title: "Become a Member",
-    description: "Join DHBA and unlock exclusive benefits for your hotel",
+    description: "Join UHGPA and unlock exclusive benefits for your hotel",
     icon: <Building2 size={32} />,
     link: "/membership",
   },

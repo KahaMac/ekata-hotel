@@ -21,7 +21,7 @@ const mockEvents = [
   {
     id: "2",
     title: "Tourism Recovery Initiative Launched",
-    excerpt: "DHBA partners with government to boost tourism sector growth",
+    excerpt: "UHGPA partners with government to boost tourism sector growth",
     content: "A comprehensive initiative to revitalize the tourism industry...",
     date: "2024-11-10",
     category: "News",

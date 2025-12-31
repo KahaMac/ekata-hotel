@@ -22,8 +22,8 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center group flex-shrink-0 mr-4">
             <Image
-              src="/hotelassociation-logo.jpg"
-              alt="District Hotel Business Association Kathmandu"
+              src="/ekata-logo.png"
+              alt="United Hotel and Guesthouse Professionals Association, Nepal"
               width={220}
               height={56}
               className="h-14 w-auto max-w-[200px] md:max-w-[220px] lg:max-w-[240px] object-contain group-hover:opacity-90 transition-smooth"

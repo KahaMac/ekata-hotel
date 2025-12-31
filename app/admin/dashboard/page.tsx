@@ -63,7 +63,7 @@ export default function AdminPage() {
                     <div className="flex justify-between items-center mb-8">
                         <div>
                             <h1 className="text-4xl font-bold text-foreground">Admin Dashboard</h1>
-                            <p className="text-muted-foreground mt-1">Manage all DHBA content and members</p>
+                            <p className="text-muted-foreground mt-1">Manage all UHGPA content and members</p>
                         </div>
                         <button
                             onClick={handleLogout}
@@ -248,7 +248,7 @@ export default function AdminPage() {
                                         <label className="block text-sm font-semibold text-foreground mb-2">Site Name</label>
                                         <input
                                             type="text"
-                                            defaultValue="DHBA Kathmandu"
+                                            defaultValue="UHGPA Nepal"
                                             className="w-full px-4 py-2 border border-input rounded-lg focus:outline-none focus:ring-2 focus:ring-primary"
                                         />
                                     </div>
@@ -256,7 +256,7 @@ export default function AdminPage() {
                                         <label className="block text-sm font-semibold text-foreground mb-2">Contact Email</label>
                                         <input
                                             type="email"
-                                            defaultValue="info@dhba.org.np"
+                                            defaultValue="info@uhgpa.org.np"
                                             className="w-full px-4 py-2 border border-input rounded-lg focus:outline-none focus:ring-2 focus:ring-primary"
                                         />
                                     </div>

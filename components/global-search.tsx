@@ -27,7 +27,7 @@ export function GlobalSearch() {
   const searchResults = [
     { title: "Hotels", href: "/hotels", type: "Page" },
     { title: "Events", href: "/events", type: "Page" },
-    { title: "About DHBA", href: "/about", type: "Page" },
+    { title: "About UHGPA", href: "/about", type: "Page" },
     { title: "Contact", href: "/contact", type: "Page" },
   ].filter((item) => item.title.toLowerCase().includes(query.toLowerCase()))
 

@@ -3,8 +3,8 @@
 import { useState } from "react"
 
 export function SettingsSection() {
-    const [siteSettings, setSiteSettings] = useState({ siteName: "DHBA Kathmandu", email: "info@dhba.com", phone: "+977 1234567" })
-    const [homeSettings, setHomeSettings] = useState({ heroTitle: "District Hotel Business Association", heroSubtitle: "Representing hospitality sector since 2074 B.S.", videoUrl: "https://youtu.be/oerd3LVEyPs" })
+    const [siteSettings, setSiteSettings] = useState({ siteName: "United Hotel and Guesthouse Professionals Association", email: "info@uhgpa.org.np", phone: "+977 9851170835" })
+    const [homeSettings, setHomeSettings] = useState({ heroTitle: "United Hotel and Guesthouse Professionals Association, Nepal", heroSubtitle: "Representing hospitality sector since 2061 B.S.", videoUrl: "https://youtu.be/oerd3LVEyPs" })
 
     const handleSaveSite = () => {
         alert("Site information saved successfully!")

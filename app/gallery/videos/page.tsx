@@ -34,7 +34,7 @@ export default function VideosPage() {
     },
     {
       id: 3,
-      title: "DHBA Annual Conference 2024",
+      title: "UHGPA Annual Conference 2024",
       thumbnail: "/tourism-initiative.jpg",
       videoId: "oerd3LVEyPs",
       duration: "12:30",

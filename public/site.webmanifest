@@ -1,16 +1,16 @@
 {
-    "name": "District Hotel Business Association Kathmandu",
-    "short_name": "DHBA",
+    "name": "United Hotel and Guesthouse Professionals Association, Nepal",
+    "short_name": "UHGPA",
     "icons": [
         {
-            "src": "/hotelassociation-logo.jpg",
+            "src": "/ekata-logo.png",
             "sizes": "192x192",
-            "type": "image/jpeg"
+            "type": "image/png"
         },
         {
-            "src": "/hotelassociation-logo.jpg",
+            "src": "/ekata-logo.png",
             "sizes": "512x512",
-            "type": "image/jpeg"
+            "type": "image/png"
         }
     ],
     "theme_color": "#1a472a",

@@ -138,7 +138,7 @@ export function NepalMap({ className = "", showConnections = true }: NepalMapPro
           </g>
         ))}
 
-        {/* Center marker (DHBA HQ) */}
+        {/* Center marker (UHGPA HQ) */}
         <motion.g initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ duration: 0.8, delay: 1 }}>
           <circle cx={center.x} cy={center.y} r="2" fill="#0ea5e9" stroke="white" strokeWidth="0.5" />
           <motion.circle
@@ -156,7 +156,7 @@ export function NepalMap({ className = "", showConnections = true }: NepalMapPro
             }}
           />
           <text x={center.x} y={center.y + 5} fontSize="2.5" fill="white" textAnchor="middle" fontWeight="bold">
-            DHBA
+            UHGPA
           </text>
         </motion.g>
 

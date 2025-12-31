@@ -72,7 +72,7 @@ export function HotelCard({
           {/* Membership Status */}
           <div className="pt-3 border-t border-border">
             <p className="text-xs font-semibold text-primary">
-              {membershipStatus === "active" ? "✓ DHBA Member" : "Apply to Join"}
+              {membershipStatus === "active" ? "✓ UHGPA Member" : "Apply to Join"}
             </p>
           </div>
         </div>

@@ -41,7 +41,7 @@ export default function ContactPage() {
         <section className="py-12 px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto">
             <div className="mb-12 text-center">
-              <h1 className="text-4xl font-bold text-foreground mb-4">Contact DHBA</h1>
+              <h1 className="text-4xl font-bold text-foreground mb-4">Contact UHGPA</h1>
               <p className="text-lg text-muted-foreground">Get in touch with us for any inquiries or support</p>
             </div>
 

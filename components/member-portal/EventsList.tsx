@@ -31,7 +31,7 @@ export default function EventsList() {
             date: "Feb 15, 2025",
             time: "10:00 AM - 2:00 PM",
             location: "Hotel Yak & Yeti, Durbar Marg",
-            description: "The Annual General Meeting of DHBA to discuss the yearly progress and future roadmap.",
+            description: "The Annual General Meeting of UHGPA to discuss the yearly progress and future roadmap.",
             category: "Meeting",
             attendees: 120,
             rsvpStatus: "Attending"

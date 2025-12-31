@@ -6,11 +6,11 @@ export function AboutPreview() {
       <div className="max-w-6xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-6">About DHBA</h2>
+            <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-6">About UHGPA</h2>
             <p className="text-lg text-muted-foreground mb-4 leading-relaxed">
-              The District Hotel Business Association Kathmandu (DHBA) is a dedicated organization representing the
-              hospitality sector in Kathmandu. Established in 2074 B.S., DHBA serves as the umbrella organization for
-              seven active hotel business associations (units) operating in key areas of Kathmandu.
+              United Hotel and Guesthouse Professionals Association, Nepal is a dedicated organization representing the
+              hospitality sector in Nepal. Established in 2061 B.S., we serve as the umbrella organization for
+              hotel and guesthouse businesses operating across key areas of Nepal.
             </p>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
               Our service areas include Kalanki, Sundhara, Bagbazar, Koteshwor, Airport, Chabahil, New Bus Park, and
@@ -27,11 +27,11 @@ export function AboutPreview() {
           <div className="bg-gradient-to-br from-primary/20 to-accent/20 rounded-lg p-8 border border-primary/20">
             <div className="text-center">
               <h3 className="text-2xl font-bold text-foreground mb-4">Our Leadership</h3>
-              <p className="text-3xl font-bold text-primary mb-2">Mr. Suresh Baral</p>
-              <p className="text-muted-foreground mb-4">President, DHBA Kathmandu</p>
-              <p className="text-muted-foreground">Phone: 9851040296</p>
+              <p className="text-3xl font-bold text-primary mb-2">Mr. Saroj Ale</p>
+              <p className="text-muted-foreground mb-4">President, UHGPA Nepal</p>
+              <p className="text-muted-foreground">Phone: 9851170835</p>
               <p className="text-sm text-muted-foreground mt-6 italic">
-                "Through unity, professionalism, and innovation, we can elevate Kathmandu's reputation as a world-class
+                "Through unity, professionalism, and innovation, we can elevate Nepal's reputation as a world-class
                 destination."
               </p>
             </div>

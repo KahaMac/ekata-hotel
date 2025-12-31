@@ -18,16 +18,16 @@ export function Footer() {
             <div className="flex items-center gap-3 mb-6">
               <div className="relative h-12 w-auto flex items-center justify-center flex-shrink-0">
                 <Image
-                  src="/hotelassociation-logo.jpg"
-                  alt="District Hotel Business Association Kathmandu"
+                  src="/ekata-logo.png"
+                  alt="United Hotel and Guesthouse Professionals Association, Nepal"
                   width={120}
                   height={48}
                   className="h-12 w-auto max-w-[120px] object-contain"
                 />
               </div>
               <div className="hidden sm:block">
-                <span className="text-base font-bold text-foreground leading-tight">District Hotel Business Association</span>
-                <p className="text-xs text-muted-foreground">Kathmandu</p>
+                <span className="text-base font-bold text-foreground leading-tight">United Hotel and Guesthouse Professionals Association</span>
+                <p className="text-xs text-muted-foreground">Nepal</p>
               </div>
             </div>
             <p className="text-foreground/70 text-sm leading-relaxed">{t("footer.brand")}</p>
@@ -92,14 +92,14 @@ export function Footer() {
                 <Mail size={18} className="text-accent flex-shrink-0 mt-0.5" />
                 <div>
                   <p className="text-xs text-muted-foreground">{t("footer.email")}</p>
-                  <p className="text-foreground/90 text-sm font-medium">info@dhba.org.np</p>
+                  <p className="text-foreground/90 text-sm font-medium">info@uhgpa.org.np</p>
                 </div>
               </li>
               <li className="flex gap-3 items-start">
                 <MapPin size={18} className="text-accent flex-shrink-0 mt-0.5" />
                 <div>
                   <p className="text-xs text-muted-foreground">{t("footer.location")}</p>
-                  <p className="text-foreground/90 text-sm font-medium">Kathmandu, Nepal</p>
+                  <p className="text-foreground/90 text-sm font-medium">Tilganga, Kathmandu, Nepal</p>
                 </div>
               </li>
             </ul>
@@ -117,7 +117,7 @@ export function Footer() {
         {/* Bottom section */}
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-6">
           <p className="text-foreground/60 text-sm">
-            © {currentYear} District Hotel Business Association. {t("footer.rights")}
+            © {currentYear} United Hotel and Guesthouse Professionals Association, Nepal. {t("footer.rights")}
           </p>
 
           {/* Social Links */}

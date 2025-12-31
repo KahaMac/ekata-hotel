@@ -59,7 +59,7 @@ function MapInitializer({ lat, lng }: { lat: number; lng: number }) {
 export function ContactMap({
   latitude = 27.7172, // Kathmandu approximate coordinates
   longitude = 85.324,
-  address = "Balaju, 16, Kathmandu, Nepal",
+  address = "Tilganga, Kathmandu, Nepal",
   height = "400px",
 }: ContactMapProps) {
   return (
@@ -92,7 +92,7 @@ export function ContactMap({
             <Popup>
               <div className="p-2">
                 <h3 className="font-bold text-foreground text-sm mb-1">
-                  District Hotel Business Association
+                  United Hotel and Guesthouse Professionals Association
                 </h3>
                 <p className="text-xs text-muted-foreground mb-2">{address}</p>
                 <p className="text-xs text-muted-foreground">

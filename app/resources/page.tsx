@@ -49,9 +49,9 @@ export default function ResourcesPage() {
     {
       id: 5,
       category: "Document",
-      title: "DHBA Membership Guidelines",
-      description: "Complete guide to DHBA membership benefits, requirements, and application process.",
-      image: "/hotelassociation-logo.jpg",
+      title: "UHGPA Membership Guidelines",
+      description: "Complete guide to UHGPA membership benefits, requirements, and application process.",
+      image: "/ekata-logo.png",
       date: "2024-12-15",
       type: "PDF Document",
       icon: FileText,

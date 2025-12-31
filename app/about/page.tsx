@@ -47,11 +47,11 @@ export default function AboutPage() {
 
         <section className="py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-primary/10 to-accent/10 border-b border-border">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl font-bold text-foreground mb-6">About DHBA Kathmandu</h2>
+            <h2 className="text-3xl font-bold text-foreground mb-6">About UHGPA Nepal</h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-              The District Hotel Business Association Kathmandu (DHBA) is a dedicated organization representing the
-              hospitality sector in Kathmandu. Established in 2074 B.S., DHBA serves as the umbrella organization for
-              seven active hotel business associations (units) operating in key areas of Kathmandu.
+              United Hotel and Guesthouse Professionals Association, Nepal is a dedicated organization representing the
+              hospitality sector in Nepal. Established in 2061 B.S., UHGPA serves as the umbrella organization for
+              hotel and guesthouse businesses operating in key areas of Nepal.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-4">
               Our service areas include Kalanki, Sundhara, Bagbazar, Koteshwor, Airport, Chabahil, New Bus Park, and
@@ -79,8 +79,8 @@ export default function AboutPage() {
                 Dear Members, Partners, and Valued Stakeholders,
               </p>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                As President of the District Hotel Business Association Kathmandu, I am honored to lead an organization
-                committed to the growth and excellence of our hospitality industry. Kathmandu, as Nepal's tourism hub,
+                As President of United Hotel and Guesthouse Professionals Association, I am honored to lead an organization
+                committed to the growth and excellence of our hospitality industry. Nepal, as a tourism hub,
                 is home to a diverse range of hotels catering to global travelers.
               </p>
               <p className="text-muted-foreground leading-relaxed mb-4">
@@ -88,13 +88,13 @@ export default function AboutPage() {
                 tourism authorities to enhance the industry's overall development.
               </p>
               <p className="text-muted-foreground leading-relaxed mb-6">
-                I encourage all hoteliers to actively engage with DHBA's initiatives and utilize our resources to
-                strengthen their businesses. Through unity, professionalism, and innovation, we can elevate Kathmandu's
+                I encourage all hoteliers to actively engage with UHGPA's initiatives and utilize our resources to
+                strengthen their businesses. Through unity, professionalism, and innovation, we can elevate Nepal's
                 reputation as a world-class destination while contributing to Nepal's tourism growth.
               </p>
               <div>
-                <p className="font-semibold text-foreground">Mr. Suresh Baral</p>
-                <p className="text-muted-foreground">President, DHBA Kathmandu</p>
+                <p className="font-semibold text-foreground">Mr. Saroj Ale</p>
+                <p className="text-muted-foreground">President, UHGPA Nepal</p>
               </div>
             </div>
           </div>
@@ -106,7 +106,7 @@ export default function AboutPage() {
               <div>
                 <h2 className="text-2xl font-bold text-foreground mb-4">Our Mission</h2>
                 <p className="text-lg text-muted-foreground leading-relaxed">
-                  The District Hotel Business Association (DHBA) is dedicated to fostering excellence in the hospitality
+                  United Hotel and Guesthouse Professionals Association is dedicated to fostering excellence in the hospitality
                   industry. We unite hotel owners and managers to promote professional standards, sustainable practices,
                   and collaborative growth.
                 </p>
@@ -153,7 +153,7 @@ export default function AboutPage() {
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-foreground mb-2">Central Community Leadership</h2>
-              <p className="text-muted-foreground">Meet the dedicated leaders driving DHBA forward</p>
+              <p className="text-muted-foreground">Meet the dedicated leaders driving UHGPA forward</p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

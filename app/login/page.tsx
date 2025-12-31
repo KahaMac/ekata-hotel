@@ -1,4 +1,4 @@
-"use client"
++"use client"
 
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
@@ -18,8 +18,8 @@ export default function LoginPage() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     // Mock authentication - in real app, validate credentials
-    // For demo: admin@dhba.com goes to admin dashboard
-    if (formData.email === "admin@dhba.com") {
+    // For demo: admin@uhgpa.com goes to admin dashboard
+    if (formData.email === "admin@uhgpa.com") {
       router.push("/admin/dashboard")
     }
   }
@@ -59,7 +59,7 @@ export default function LoginPage() {
                     value={formData.email}
                     onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                     className="w-full pl-11 pr-4 py-3 border-2 border-border rounded-xl focus:border-primary focus:outline-none transition-colors"
-                    placeholder="admin@dhba.com"
+                    placeholder="admin@uhgpa.com"
                   />
                 </div>
               </div>
@@ -113,7 +113,7 @@ export default function LoginPage() {
             <div className="mt-6 p-4 bg-muted/50 rounded-xl">
               <p className="text-xs text-muted-foreground text-center mb-2">Demo Credentials:</p>
               <p className="text-xs text-center font-mono">
-                <strong>Email:</strong> admin@dhba.com<br />
+                <strong>Email:</strong> admin@uhgpa.com<br />
                 <strong>Password:</strong> admin123
               </p>
             </div>

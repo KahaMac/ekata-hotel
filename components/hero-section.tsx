@@ -17,9 +17,9 @@ export function HeroSection() {
   const ads = [
     {
       id: 1,
-      title: "About DHBA",
-      description: "Representing hospitality sector since 2074 B.S.",
-      image: "/hotelassociation-logo.jpg",
+      title: "About UHGPA",
+      description: "Representing hospitality sector since 2061 B.S.",
+      image: "/ekata-logo.png",
       link: "/about",
     },
     {
@@ -75,9 +75,9 @@ export function HeroSection() {
 
   const slides = [
     {
-      title: "District Hotel Business Association Kathmandu",
+      title: "United Hotel and Guesthouse Professionals Association, Nepal",
       subtitle:
-        "The District Hotel Business Association Kathmandu (DHBA) is a dedicated organization representing the hospitality sector in Kathmandu. Established in 2074 B.S., DHBA serves as the umbrella organization for seven active hotel business associations.",
+        "United Hotel and Guesthouse Professionals Association is a dedicated organization representing the hospitality sector in Nepal. Established in 2061 B.S., we serve as the umbrella organization for hotel and guesthouse businesses across Nepal.",
       cta: "Explore Our Members",
       ctaLink: "/members",
       image: "/luxury-hotel-kathmandu.jpg",

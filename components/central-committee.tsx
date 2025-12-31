@@ -14,7 +14,7 @@ interface CommitteeMember {
 }
 
 const members: CommitteeMember[] = [
-  { position: "President", name: "Mr. Suresh Baral", phone: "9851040296", photo: "/placeholder-user.jpg" },
+  { position: "President", name: "Mr. Saroj Ale", phone: "9851170835", photo: "/placeholder-user.jpg" },
   { position: "Senior Vice President", name: "Bhavishwar Dubey", phone: "9841505124", photo: "/placeholder-user.jpg" },
   { position: "Vice President", name: "Mr. Jitendra Giri", phone: "9841222185", photo: "/placeholder-user.jpg" },
   { position: "General Secretary", name: "Mr. Sailendra Bikram Thapa", phone: "9766868845", photo: "/placeholder-user.jpg" },

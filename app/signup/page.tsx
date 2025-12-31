@@ -66,9 +66,9 @@ export default function SignupPage() {
           <div className="bg-white rounded-lg border border-border p-8">
             <div className="text-center mb-8">
               <div className="w-12 h-12 bg-primary rounded-lg flex items-center justify-center mx-auto mb-4">
-                <span className="text-primary-foreground font-bold text-lg">D</span>
+                <span className="text-primary-foreground font-bold text-lg">U</span>
               </div>
-              <h1 className="text-3xl font-bold text-foreground">Join DHBA</h1>
+              <h1 className="text-3xl font-bold text-foreground">Join UHGPA</h1>
               <p className="text-muted-foreground mt-2">Create your member account</p>
             </div>
 

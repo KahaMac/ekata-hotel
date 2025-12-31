@@ -21,7 +21,7 @@ export default function PhotosPage() {
     { id: 8, src: "/traditional-nepalese-hotel.jpg", title: "Traditional Hotel", category: "hotels" },
     { id: 9, src: "/hotel-excellence.jpg", title: "Hotel Excellence", category: "hotels" },
     { id: 10, src: "/tourism-initiative.jpg", title: "Tourism Initiative", category: "events" },
-    { id: 11, src: "/hotelassociation-logo.jpg", title: "DHBA Logo", category: "events" },
+    { id: 11, src: "/ekata-logo.png", title: "UHGPA Logo", category: "events" },
     { id: 12, src: "/luxury-hotel-lobby.png", title: "Grand Lobby", category: "hotels" },
   ]
 

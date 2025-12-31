@@ -45,7 +45,7 @@ export default function MessagesInbox() {
         {
             id: "2",
             userId: "u2",
-            name: "DHBA Admin",
+            name: "UHGPA Admin",
             avatar: "/logo.png",
             lastMessage: "Your membership renewal is due next month.",
             time: "Yesterday",

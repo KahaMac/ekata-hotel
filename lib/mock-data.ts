@@ -176,8 +176,8 @@ export const mockEvents = [
     capacity: 200,
     registered: 145,
     status: "upcoming",
-    description: "Annual meeting of all DHBA members",
-    organizer: "DHBA Admin",
+    description: "Annual meeting of all UHGPA members",
+    organizer: "UHGPA Admin",
   },
   {
     id: 2,
@@ -201,7 +201,7 @@ export const mockEvents = [
     registered: 89,
     status: "upcoming",
     description: "Networking event for hospitality professionals",
-    organizer: "DHBA Admin",
+    organizer: "UHGPA Admin",
   },
 ]
 

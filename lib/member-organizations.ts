@@ -38,7 +38,7 @@ export const memberOrganizations = [
     name: "Kathmandu Hotel Business Association",
     shortName: "Kathmandu HBA",
     committee: [
-      { role: "President", name: "Suresh Baral", phone: "9851567890" },
+      { role: "President", name: "Saroj Ale", phone: "9851170835" },
       { role: "Vice President", name: "Maya Desai", phone: "9851678901" },
       { role: "General Secretary", name: "Devi Nath Sharma", phone: "9851789012" },
     ],

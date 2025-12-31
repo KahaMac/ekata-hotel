@@ -10,22 +10,24 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "DHBA Kathmandu - District Hotel Business Association",
+  title: "United Hotel and Guesthouse Professionals Association, Nepal",
   description:
-    "Discover hotels, destinations, and events in Kathmandu through the District Hotel Business Association.",
+    "Discover hotels, destinations, and events in Nepal through United Hotel and Guesthouse Professionals Association.",
   generator: "v0.app",
   icons: {
     icon: [
       {
-        url: "/hotelassociation-logo.jpg",
-        type: "image/jpeg",
+        url: "/ekata-logo.png",
+        type: "image/png",
+        sizes: "32x32",
       },
       {
-        url: "/favicon.ico",
-        sizes: "any",
+        url: "/ekata-logo.png",
+        type: "image/png",
+        sizes: "16x16",
       },
     ],
-    apple: "/hotelassociation-logo.jpg",
+    apple: "/ekata-logo.png",
   },
 }
 
@@ -38,8 +40,9 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <head>
         <link rel="manifest" href="/site.webmanifest" />
-        <link rel="icon" href="/hotelassociation-logo.jpg" type="image/jpeg" />
-        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/ekata-logo.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/ekata-logo.png" />
+        <link rel="apple-touch-icon" href="/ekata-logo.png" />
         <meta name="theme-color" content="#1a472a" />
       </head>
       <body className={`font-sans antialiased`} suppressHydrationWarning>

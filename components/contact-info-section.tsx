@@ -17,7 +17,7 @@ export function ContactInfoSection() {
             <MapPin className="text-primary mt-1 flex-shrink-0" size={24} />
             <div>
               <p className="font-semibold text-foreground mb-1">Location</p>
-              <p className="text-muted-foreground">Kathmandu, Nepal</p>
+              <p className="text-muted-foreground">Tilganga, Kathmandu, Nepal</p>
             </div>
           </div>
           <div className="flex items-start gap-4">
@@ -31,7 +31,7 @@ export function ContactInfoSection() {
             <Mail className="text-primary mt-1 flex-shrink-0" size={24} />
             <div>
               <p className="font-semibold text-foreground mb-1">Email</p>
-              <p className="text-muted-foreground">contact@dhbakathmandu.org</p>
+              <p className="text-muted-foreground">contact@uhgpa.org.np</p>
             </div>
           </div>
         </div>
