@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /member-portal
+Disallow: /api
+
+Sitemap: https://dhba.org.np/sitemap.xml

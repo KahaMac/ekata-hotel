@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+3:I[31321,["/_next/static/chunks/c895ffb6d0b0c068.js","/_next/static/chunks/235efd0e3c147b1f.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"zVrDpAI9FebeOs4CKa_FC","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
+2:E{"digest":"NEXT_REDIRECT;replace;/admin/dashboard;307;"}
